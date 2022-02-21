@@ -6,3 +6,5 @@ s
 
 
 using git rm --cached "bnm"
+
+fgdh
