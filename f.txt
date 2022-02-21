@@ -1,0 +1,8 @@
+r
+sagzssrrwas
+dsdas
+s
+
+
+
+using git rm --cached "bnm"
